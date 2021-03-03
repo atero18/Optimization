@@ -1,0 +1,133 @@
+Loudéac<->Carhaix:67
+Loudéac<->Fougères:128
+Loudéac<->Vannes:64
+Loudéac<->Rennes:87
+Loudéac<->Nantes:153
+Loudéac<->Angers:201
+Loudéac<->Le Mans:235
+Loudéac<->Caen:234
+Loudéac<->Saint-Malo:88
+Loudéac<->Saint-Brieuc:42
+Loudéac<->Lannion:93
+Loudéac<->Morlaix:106
+Loudéac<->Brest:145
+Loudéac<->Quimper:113
+Loudéac<->Concarneau:108
+----
+Carhaix<->Fougères:193
+Carhaix<->Vannes:104
+Carhaix<->Rennes:154
+Carhaix<->Nantes:212
+Carhaix<->Angers:263
+Carhaix<->Le Mans:302
+Carhaix<->Caen:291
+Carhaix<->Saint-Malo:138
+Carhaix<->Saint-Brieuc:74
+Carhaix<->Lannion:57
+Carhaix<->Morlaix:42
+Carhaix<->Brest:79
+Carhaix<->Quimper:55
+Carhaix<->Concarneau:58
+----
+Fougères<->Vannes:151
+Fougères<->Rennes:47
+Fougères<->Nantes:142
+Fougères<->Angers:120
+Fougères<->Le Mans:119
+Fougères<->Caen:122
+Fougères<->Saint-Malo:76
+Fougères<->Saint-Brieuc:129
+Fougères<->Lannion:193
+Fougères<->Morlaix:213
+Fougères<->Brest:271
+Fougères<->Quimper:242
+Fougères<->Concarneau:234
+----
+Vannes<->Rennes:104
+Vannes<->Nantes:111
+Vannes<->Angers:180
+Vannes<->Le Mans:245
+Vannes<->Caen:150
+Vannes<->Saint-Malo:138
+Vannes<->Saint-Brieuc:106
+Vannes<->Lannion:146
+Vannes<->Morlaix:146
+Vannes<->Brest:176
+Vannes<->Quimper:115
+Vannes<->Concarneau:99
+----
+Rennes<->Nantes:111
+Rennes<->Angers:121
+Rennes<->Le Mans:148
+Rennes<->Caen:169
+Rennes<->Saint-Malo:71
+Rennes<->Saint-Brieuc:104
+Rennes<->Lannion:167
+Rennes<->Morlaix:185
+Rennes<->Brest:232
+Rennes<->Quimper:195
+Rennes<->Concarneau:189
+----
+Nantes<->Angers:88
+Nantes<->Le Mans:171
+Nantes<->Caen:262
+Nantes<->Saint-Malo:181
+Nantes<->Saint-Brieuc:186
+Nantes<->Lannion:246
+Nantes<->Morlaix:253
+Nantes<->Brest:288
+Nantes<->Quimper:226
+Nantes<->Concarneau:211
+Angers<->Le Mans:90
+Angers<->Caen:212
+Angers<->Saint-Malo:188
+Angers<->Saint-Brieuc:224
+Angers<->Lannion:288
+Angers<->Morlaix:303
+Angers<->Brest:341
+Angers<->Quimper:294
+Angers<->Concarneau:279
+----
+Le Mans<->Caen:150
+Le Mans<->Saint-Malo:194
+Le Mans<->Saint-Brieuc:247
+Le Mans<->Lannion:311
+Le Mans<->Morlaix:332
+Le Mans<->Brest:380
+Le Mans<->Quimper:343
+Le Mans<->Concarneau:336
+----
+Caen<->Saint-Malo:162
+Caen<->Saint-Brieuc:227
+Caen<->Lannion:291
+Caen<->Morlaix:311
+Caen<->Brest:369
+Caen<->Quimper:342
+Caen<->Concarneau:341
+----
+Saint-Malo<->Saint-Brieuc:69
+Saint-Malo<->Lannion:133
+Saint-Malo<->Morlaix:153
+Saint-Malo<->Brest:212
+Saint-Malo<->Quimper:190
+Saint-Malo<->Concarneau:189
+----
+Saint-Brieuc<->Lannion:64
+Saint-Brieuc<->Morlaix:84
+Saint-Brieuc<->Brest:143
+Saint-Brieuc<->Quimper:125
+Saint-Brieuc<->Concarneau:125
+----
+Lannion<->Morlaix:36
+Lannion<->Brest:94
+Lannion<->Quimper:109
+Lannion<->Concarneau:115
+----
+Morlaix<->Brest:59
+Morlaix<->Quimper:76
+Morlaix<->Concarneau:91
+----
+Brest<->Quimper:73
+Brest<->Concarneau:94
+----
+Quimper<->Concarneau:21

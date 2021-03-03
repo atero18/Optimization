@@ -1,0 +1,20 @@
+France->Islande:414.022
+France->Malaisie:2007.951
+France->Sri Lanka:1635.561
+France->Pakistan:1135.971
+Islande->Malaisie:1045.987
+Islande->Sri Lanka:2225.22
+Islande->Pakistan:1539.459
+Malaisie->Sri Lanka:313.13
+Malaisie->Pakistan:579.073
+Sri Lanka->Pakistan:175.485
+Islande->France:495.77
+Malaisie->France:1331.118
+Sri Lanka->France:488.253
+Pakistan->France:139.652
+Malaisie->Islande:579.073
+Sri Lanka->Islande:554.748
+Pakistan->Islande:158.049
+Sri Lanka->Malaisie:141.006
+Pakistan->Malaisie:107.387
+Pakistan->Sri Lanka:72.267
